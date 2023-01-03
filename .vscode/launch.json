@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch test02",
+            "request": "launch",
+            "mainClass": "practice.for_while_sampletest.test02",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
             "name": "Launch Sample07",
             "request": "launch",
             "mainClass": "practice.fortest.Sample07",

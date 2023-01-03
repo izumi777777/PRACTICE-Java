@@ -1,0 +1,203 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Sample07",
+            "request": "launch",
+            "mainClass": "practice.fortest.Sample07",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample01",
+            "request": "launch",
+            "mainClass": "andとorを用いた表現.Sample01",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample02",
+            "request": "launch",
+            "mainClass": "andとorを用いた表現.Sample02",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample03",
+            "request": "launch",
+            "mainClass": "andとorを用いた表現.Sample03",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Escape",
+            "request": "launch",
+            "mainClass": "practice.Java20230103.Escape",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTest",
+            "request": "launch",
+            "mainClass": "practice.Sample.PrintTest",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTest2",
+            "request": "launch",
+            "mainClass": "practice.Sample.PrintTest2",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTest3",
+            "request": "launch",
+            "mainClass": "practice.Sample.PrintTest3",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTest4",
+            "request": "launch",
+            "mainClass": "practice.Sample.PrintTest4",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTest5",
+            "request": "launch",
+            "mainClass": "practice.Sample.PrintTest5",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTest6",
+            "request": "launch",
+            "mainClass": "practice.Sample.PrintTest6",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample01(1)",
+            "request": "launch",
+            "mainClass": "practice.fortest.Sample01",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample02(1)",
+            "request": "launch",
+            "mainClass": "practice.fortest.Sample02",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample03(1)",
+            "request": "launch",
+            "mainClass": "practice.fortest.Sample03",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample04",
+            "request": "launch",
+            "mainClass": "practice.fortest.Sample04",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Omikuzi",
+            "request": "launch",
+            "mainClass": "practice.random.Omikuzi",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomNumber",
+            "request": "launch",
+            "mainClass": "practice.random.RandomNumber",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample01(2)",
+            "request": "launch",
+            "mainClass": "変数の上書き.Sample01",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample01(3)",
+            "request": "launch",
+            "mainClass": "変数の初期化.Sample01",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test01",
+            "request": "launch",
+            "mainClass": "条件分岐.test01",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test02",
+            "request": "launch",
+            "mainClass": "条件分岐.test02",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test03",
+            "request": "launch",
+            "mainClass": "条件分岐.test03",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test04",
+            "request": "launch",
+            "mainClass": "条件分岐.test04",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test05",
+            "request": "launch",
+            "mainClass": "条件分岐.test05",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test07",
+            "request": "launch",
+            "mainClass": "条件分岐.test07",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test08",
+            "request": "launch",
+            "mainClass": "条件分岐.test08",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch testo6",
+            "request": "launch",
+            "mainClass": "条件分岐.testo6",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        }
+    ]
+}

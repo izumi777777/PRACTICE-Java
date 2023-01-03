@@ -1,4 +1,4 @@
-package andとorを用いた表現;
+package andとorを用いた表現.random;
 
 public class Omikuzi {
     public static void main(String[] args) {

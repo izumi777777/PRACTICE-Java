@@ -1,4 +1,4 @@
-package andとorを用いた表現.random;
+package practice.random;
 
 //**  乱数　*/
 

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Frame",
+            "request": "launch",
+            "mainClass": "practice.window.Frame",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerSample",
+            "request": "launch",
+            "mainClass": "practice.Method.scanner.ScannerSample",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "practice.test",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodSample",
+            "request": "launch",
+            "mainClass": "practice.Method.MethodSample",
+            "projectName": "PRACTICE-Java_9fda90a5"
+        },
+        {
+            "type": "java",
             "name": "Launch ImportSample",
             "request": "launch",
             "mainClass": "practice.importtest.ImportSample",
